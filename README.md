@@ -90,7 +90,7 @@ libboost-python-dev libboost-filesystem-dev zlib1g-dev
 ```
 - Then follow the steps below one by one,
 ```bash
-git clone https://github .com/YosysHQ/yosys.git
+git clone https://github.com/YosysHQ/yosys.git
 ls
 cd yosys
 git submodule update --init --recursive
