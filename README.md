@@ -137,9 +137,8 @@ Follow the steps given below for understanding the flow of RTL to GDS,
 
 - Clone the this page using git clone command.      --> ```https://github.com/SumanKumar8/SI2025_RTL_TO_GDS-main_open_road_yosys```
 - Enter inside the repository.                      --> ```cd SI2025_RTL_TO_GDS-main_open_road_yosys/```
-- ```unzip SI2025_RTL_TO_GDS-main.zip```
-- Unzip the file then cd into the counter folder.   --> ```cd ASIC_counter```
-- Enter inside the counter folder                   --> ```cd counter/```
+- Unzip the file then cd into the counter folder.   --> - ```unzip SI2025_RTL_TO_GDS-main.zip```
+- Enter inside the counter folder                   --> ```cd SI2025_RTL_TO_GDS-main/ASIC_counter/counter/```
 - Then next we will be starting with the flow
 -change the directory structure based on your file
 
