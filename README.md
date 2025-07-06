@@ -201,7 +201,10 @@ gtkwave test.vcd
 - Here physicalDesign.tcl is the script that is used for physical design.
 - In the physicalDesign.tcl there are some subscripts included one of them is flow.tcl but i have also divided the script into various subscripts for floorplanning then power distribution etc.
 - You can comment flow.tcl and uncomment those files one by one to visualize each steps as mentioned in the first point.
+- Now you can see the layout file in the user interface of OpenRoad
 - Now you can see the layout file in the user interface of OpenRoad.
+![image](https://github.com/user-attachments/assets/060a89b4-837f-439d-a684-a3ee0e832da9)
+
 
 
   
