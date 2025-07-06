@@ -135,7 +135,7 @@ The OpenROAD Project has two releases:
 ## Flow  
 Follow the steps given below for understanding the flow of RTL to GDS, 
 
-- Clone the this page using git clone command.      --> ```https://github.com/SumanKumar8/SI2025_RTL_TO_GDS.git```
+- Clone the this page using git clone command.      --> ```[https://github.com/SumanKumar8/SI2025_RTL_TO_GDS-main_open_road_yosys]```
 - Enter inside the repository.                      --> ```cd SI2025_RTL_TO_GDS/```
 - Unzip the file then cd into the counter folder.   --> ```unzip ASIC_counter.zip```
 - Enter inside the counter folder                   --> ```cd counter/```
