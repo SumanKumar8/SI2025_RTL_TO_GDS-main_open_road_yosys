@@ -205,7 +205,4 @@ gtkwave test.vcd
 - Now you can see the layout file in the user interface of OpenRoad.
 ![image](https://github.com/user-attachments/assets/060a89b4-837f-439d-a684-a3ee0e832da9)
 
-
-
-  
   
